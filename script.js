@@ -4,9 +4,7 @@ const files = {
     content: `
       <p>ABOUT ME</p>
       <p>Name: Krish Shah<br>Based in: Davis, California<br>From: Ahmedabad, India</p>
-      <p>I am a Mechanical Engineering student at UC Davis with a growing interest in computer science, product building, and the places where software meets the physical world.</p>
-      <p>Away from a screen, I am usually playing badminton, bouldering, lifting, running, or planning an unnecessarily ambitious trip.</p>
-      <p>I like hard problems, new cities, and projects that leave me more capable than when I started.</p>
+      <p>I am a MechE student at UC Davis with a growing interest in computer science and product building.</p>
     `,
   },
   focus: {
